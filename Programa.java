@@ -9,6 +9,10 @@ public class Programa {
                 Exercicio1.executar();
                 break;
 
+             case 2:
+                Exercicio2.executar();
+                break;
+
             default:
                 break;
         }
